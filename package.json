@@ -1,0 +1,27 @@
+{
+  "name": "app-clima-geolocalizacion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JOHNWILLIAMREYES/App-geolocalizacion-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JOHNWILLIAMREYES/App-geolocalizacion-node/issues"
+  },
+  "homepage": "https://github.com/JOHNWILLIAMREYES/App-geolocalizacion-node#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.2",
+    "inquirer": "^7.3.3"
+  }
+}
